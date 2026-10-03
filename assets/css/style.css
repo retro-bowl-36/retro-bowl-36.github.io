@@ -161,7 +161,7 @@ body{
   box-shadow: none !important;
 }
 
-/* IO Games Unblocked 2026 premium brand layer */
+/* Retro-Bowl-36 premium brand layer */
 :root{--io-cyan:#22d3ee;--io-blue:#2563eb;--io-purple:#7c3aed;--io-dark:#070b18;}
 body{background:radial-gradient(circle at top left,rgba(34,211,238,.16),transparent 34%),radial-gradient(circle at top right,rgba(124,58,237,.14),transparent 32%),#070b18;}
 .main-nav a:hover,.footer a:hover{color:var(--io-cyan)!important}.section-title{letter-spacing:.02em}.grid a,.card{transition:transform .2s ease,box-shadow .2s ease}.grid a:hover,.card:hover{transform:translateY(-3px)}

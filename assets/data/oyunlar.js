@@ -1,4 +1,4 @@
-/* IO Games Unblocked 2026 game catalog - fixed consecutive IDs */
+/* Retro-Bowl-36 game catalog - fixed consecutive IDs */
 window.oyunlar = {
   "1": {
     "label": "1v1.LOL",
