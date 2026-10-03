@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://retro-bowl-36.github.io/sitemap.xml
