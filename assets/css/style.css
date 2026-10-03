@@ -204,3 +204,18 @@ body{
 .footer{border-top:1px solid #245a3a;margin-top:24px}
 .divider{background:#245a3a}
 .brand img,.hero img,header img[alt*="logo"]{border-radius:50%}
+
+/* Hero */
+.hero{display:flex;align-items:center;gap:28px;padding:32px 36px;margin:8px 0 14px;border-radius:22px;border:1px solid #245a3a;
+  background:linear-gradient(120deg,rgba(245,184,46,.18),rgba(22,163,74,.22) 55%,rgba(15,47,29,.9));box-shadow:0 10px 30px rgba(0,0,0,.4);position:relative;overflow:hidden}
+.hero:after{content:"";position:absolute;right:-60px;top:-60px;width:260px;height:260px;border-radius:50%;background:radial-gradient(circle,rgba(245,184,46,.25),transparent 70%)}
+.hero-logo{width:110px;height:110px;border-radius:50%;border:3px solid #f5b82e;box-shadow:0 0 0 6px rgba(245,184,46,.15),0 8px 20px rgba(0,0,0,.5);flex:none;object-fit:cover}
+.hero-text{position:relative;z-index:1}
+.hero-tag{display:inline-block;font-size:12px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:#07140d;background:#f5b82e;padding:4px 12px;border-radius:999px}
+.hero h1{margin:10px 0 6px;font-size:44px;line-height:1.05;font-weight:900;letter-spacing:.5px;background:linear-gradient(90deg,#fff,#f5b82e);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{margin:0 0 14px;color:#cfe3d3;max-width:620px;font-size:16px}
+.hero-badges{display:flex;gap:8px;flex-wrap:wrap}
+.hero-badges span{font-size:12px;font-weight:700;color:#e9f3e4;border:1px solid #2f7a4c;background:rgba(7,20,13,.5);padding:5px 12px;border-radius:999px}
+.controls-bottom{background:#0f2418;border:1px solid #245a3a;border-radius:16px;padding:12px;margin:0 0 12px}
+.controls-bottom .input{flex:1;min-width:200px}
+@media (max-width:640px){.hero{flex-direction:column;text-align:center;padding:24px 18px}.hero h1{font-size:32px}.hero p{margin-left:auto;margin-right:auto}.hero-badges{justify-content:center}}
