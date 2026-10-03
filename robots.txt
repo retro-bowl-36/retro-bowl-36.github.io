@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://retro-bowl-36.github.io/sitemap.xml
+Sitemap: https://io-games-2026.us/sitemap.xml

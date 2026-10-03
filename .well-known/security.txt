@@ -1,0 +1,3 @@
+Contact: mailto:ckaracar@gmail.com
+Preferred-Languages: en, tr
+Canonical: https://io-games-2026.us/.well-known/security.txt
