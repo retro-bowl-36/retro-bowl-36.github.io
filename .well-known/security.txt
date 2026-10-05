@@ -1,3 +1,0 @@
-Contact: mailto:ckaracar@gmail.com
-Preferred-Languages: en, tr
-Canonical: https://retro-bowl-36.github.io/.well-known/security.txt
